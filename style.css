@@ -124,7 +124,7 @@ p.footer {
 .Grid-cell {
   flex: 1;
   min-width: 320px;
-  border: 1px solid #F1C784;
+  b/order: 1px solid #F1C784;
 }
 
 .Grid-cell:hover {
