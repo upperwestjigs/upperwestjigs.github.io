@@ -49,6 +49,7 @@ a:hover {
 
 .style {
   font-size: 12px;
+  font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 5px;
 }
