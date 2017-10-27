@@ -46,7 +46,7 @@ a:hover {
 }
 
 .thumbnail:hover {
-  filter: drop-shadow(0px 0px 20px #F1C784);
+  filter: brightness(120%);
 }
 
 .divider {
@@ -124,7 +124,7 @@ p.footer {
 .Grid-cell {
   flex: 1;
   min-width: 320px;
-  b/order: 1px solid #F1C784;
+  border: 1px solid #F1C784;
 }
 
 .Grid-cell:hover {
